@@ -24,7 +24,6 @@ GitHub é uma plataforma online que hospeda repositórios Git. Além de armazena
 | `git branch` | Lista as branches existentes |
 | `git checkout -b <nome>` | Cria e muda para uma nova branch |
 | `git log` | Mostra o histórico de commits |
-| `git blame <arquivo>` | Mostra quem alterou cada linha de um arquivo |
 | `git revert <hash>` | Reverte um commit específico |
 
 
