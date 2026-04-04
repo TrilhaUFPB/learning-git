@@ -47,7 +47,7 @@ Merge é o processo de **juntar** duas branches. Quando seu Pull Request é apro
 .
 # Atividades Práticas
 
-As atividades estão organizadas em níveis progressivos. Complete cada nível antes de avançar para o próximo.
+Complete o nível antes de avançar para o próximo.
 
 ---
 
@@ -154,50 +154,6 @@ git push origin merge-seuNome
 
 > **Dica:** Conflitos não são erros! Eles acontecem o tempo todo em equipes e são normais. O importante é saber resolvê-los com calma. Cada rodada o conflito fica um pouco maior, isso é proposital!
 
----
-
-## Nível 3 — Desafios
-
-### Desafio 4.1: Git Detetive
-
-Um commit "misterioso" introduziu um erro neste repositório. Use os comandos abaixo para encontrar o culpado:
-
-```bash
-git log --oneline
-git blame <arquivo-suspeito>
-git show <hash-do-commit>
-```
-
-Descubra **qual commit** introduziu o erro e **quem** foi o autor.
-
-### Desafio 4.2: Revertendo um erro
-
-1. Identifique o commit problemático usando `git log`
-2. Reverta o commit:
-   ```bash
-   git revert <hash-do-commit>
-   ```
-3. Faça push da correção
-
-### Desafio 4.3: Cherry-pick
-
-Duas branches foram criadas com funcionalidades diferentes. Sua missão:
-
-1. Identifique um commit útil na branch `feature-a`
-2. Aplique **apenas aquele commit** na branch `feature-b`:
-   ```bash
-   git checkout feature-b
-   git cherry-pick <hash-do-commit>
-   ```
-
-### Desafio 4.4: Criando uma Release
-
-Quando todos os perfis estiverem no `main`, vamos criar a primeira release juntos:
-
-```bash
-git tag -a v1.0.0 -m "primeira release - todos os perfis adicionados"
-git push origin v1.0.0
-```
 
 ---
 

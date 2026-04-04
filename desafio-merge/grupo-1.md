@@ -1,4 +1,4 @@
-# Desafio Merge — Grupo 1 (Trio)
+# Desafio Merge — Grupo 1
 
 ## Pergunta: Qual a melhor linguagem para começar a programar e por quê?
 

@@ -1,4 +1,4 @@
-# Desafio Merge — Grupo 2 (Trio)
+# Desafio Merge — Grupo 2 
 
 ## Pergunta: IA vai substituir programadores? Qual o futuro da profissão?
 

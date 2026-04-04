@@ -1,4 +1,4 @@
-# Desafio Merge — Grupo 4 (Quarteto)
+# Desafio Merge — Grupo 4 
 
 ## Pergunta: Qual a habilidade mais importante para um dev além de programar?
 

@@ -1,4 +1,4 @@
-# Desafio Merge — Grupo 3 (Trio)
+# Desafio Merge — Grupo 3 
 
 ## Pergunta: Se vocês pudessem criar uma startup agora, qual seria e por quê?
 
