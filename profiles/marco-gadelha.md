@@ -1,7 +1,7 @@
 # Marco Antonio Gadelha
 
-- **Curso:** Ciência da Computação
-- **Período:** 4º
+- **Curso:** Engenharia de Computação
+- **Período:** 1º
 - **GitHub:** [@marcogadelhaf](https://github.com/marcogadelhaf)
 - **Um fato curioso sobre você:** O "Antonio" não tem acento porque meu avô inventou
 - **Tecnologia favorita:** C
