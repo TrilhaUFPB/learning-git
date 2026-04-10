@@ -4,6 +4,10 @@
 
 ### Respostas:
 
-<!-- EDITE AQUI: substitua esta linha pela sua resposta -->
-EDITE AQUI - marco é muito entrosa
-
+**Grupo 1 - Resposta final:** ;ajsdlkajsd
+Python é a melhor lingualaksdljkasdm para começar porque tem sintaxe simples e é muito utilizada.
+- Fácil de aprlajshdaskjhdar
+- Comunidaalkjsjhdaljkshdade grande
+- Muitjasdljkasdkajsds bibliotecas disponíveis
+lakjsdaljh2018u12oi
+oi812ueo1h2elj1h
