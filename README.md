@@ -10,22 +10,20 @@ Git é um sistema de controle de versão distribuído que permite rastrear mudan
 
 GitHub é uma plataforma online que hospeda repositórios Git. Além de armazenar seu código na nuvem, o GitHub facilita a colaboração entre desenvolvedores através de funcionalidades como Pull Requests, Issues e Code Review.
 
-
 ## Comandos essenciais
 
-| Comando | Descrição |
-|---------|-----------|
-| `git clone <url>` | Clona um repositório remoto |
-| `git status` | Mostra o estado atual das alterações |
-| `git add .` | Adiciona todas as alterações para commit |
-| `git commit -m "msg"` | Cria um commit com uma mensagem |
-| `git push` | Envia os commits para o repositório remoto |
-| `git pull` | Atualiza o repositório local com as mudanças remotas |
-| `git branch` | Lista as branches existentes |
-| `git checkout -b <nome>` | Cria e muda para uma nova branch |
-| `git log` | Mostra o histórico de commits |
-| `git revert <hash>` | Reverte um commit específico |
-
+| Comando                  | Descrição                                            |
+| ------------------------ | ---------------------------------------------------- |
+| `git clone <url>`        | Clona um repositório remoto                          |
+| `git status`             | Mostra o estado atual das alterações                 |
+| `git add .`              | Adiciona todas as alterações para commit             |
+| `git commit -m "msg"`    | Cria um commit com uma mensagem                      |
+| `git push`               | Envia os commits para o repositório remoto           |
+| `git pull`               | Atualiza o repositório local com as mudanças remotas |
+| `git branch`             | Lista as branches existentes                         |
+| `git checkout -b <nome>` | Cria e muda para uma nova branch                     |
+| `git log`                | Mostra o histórico de commits                        |
+| `git revert <hash>`      | Reverte um commit específico                         |
 
 ## O que é um Pull Request?
 
@@ -35,15 +33,10 @@ Um Pull Request (PR) é um pedido para que suas alterações sejam revisadas e i
 
 Merge é o processo de **juntar** duas branches. Quando seu Pull Request é aprovado, o instrutor (ou você) faz o merge, as suas alterações passam a fazer parte da branch `main`. Se duas pessoas editaram o mesmo trecho de código, o Git avisa que existe um **merge conflict**, e você precisa decidir manualmente qual versão manter (ou combinar as duas).
 
-
-
-
-
 ---
 
-
-
 .
+
 # Atividades Práticas
 
 Complete o nível antes de avançar para o próximo.
@@ -145,6 +138,7 @@ Nesta atividade, seu grupo vai **propositalmente** criar merge conflicts para ap
 8. **Pessoa D** (se houver) repete novamente — resolvendo com A, B e C.
 
 Cada pessoa faz commit da resolução e abre seu Pull Request:
+
 ```bash
 git add .
 git commit -m "resolve conflito - adiciona resposta de Seu Nome"
@@ -152,7 +146,6 @@ git push origin merge-seuNome
 ```
 
 > **Dica:** Conflitos não são erros! Eles acontecem o tempo todo em equipes e são normais. O importante é saber resolvê-los com calma. Cada rodada o conflito fica um pouco maior, isso é proposital!
-
 
 ---
 
@@ -185,3 +178,13 @@ learning-git/
 ---
 
 **Bora praticar!**
+
+## Matheus's to-do list
+
+- [x] Atividade 1.1: Clone e crie sua branch
+- [x] Atividade 1.2: Crie seu perfil
+- [x] Atividade 1.3: Abra um Pull Request
+- [ ] Atividade 2.1: Revise o PR de um colega
+- [ ] Atividade 2.2: Resolvendo Merge Conflicts (em grupo)
+- [ ] Bônus — Mural da Sabedoria
+- [ ] Estrutura do Repositório
