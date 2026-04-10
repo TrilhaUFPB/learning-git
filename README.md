@@ -178,13 +178,3 @@ learning-git/
 ---
 
 **Bora praticar!**
-
-## Matheus's to-do list
-
-- [x] Atividade 1.1: Clone e crie sua branch
-- [x] Atividade 1.2: Crie seu perfil
-- [x] Atividade 1.3: Abra um Pull Request
-- [ ] Atividade 2.1: Revise o PR de um colega
-- [ ] Atividade 2.2: Resolvendo Merge Conflicts (em grupo)
-- [ ] Bônus — Mural da Sabedoria
-- [ ] Estrutura do Repositório
