@@ -5,4 +5,4 @@
 ### Respostas:
 
 <!-- EDITE AQUI: substitua esta linha pela sua resposta -->
-Assistente de estudos com IA para universitários
+algority, plataforma de comunicação de devs com IDE colaborativa integrada a chamada e Assistente de estudos com IA para universitários
