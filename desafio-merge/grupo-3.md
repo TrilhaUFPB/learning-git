@@ -4,8 +4,11 @@
 
 ### Respostas:
 
-<!-- EDITE AQUI: substitua esta linha pela sua resposta -->
-Python é a melhor linguagem para começar porque tem sintaxe simples e é muito utilizada.
-•⁠  ⁠Fácil de aprender
-•⁠  ⁠Comunidade grande
-•⁠  ⁠Muuuitas bibliotecas disponíveis
+EDITE AQUI - Escreva sua resposta
+<h1>Grupo 3</h1>
+Resolver problemas e ter dor de cabeça no cortex pré frontal
+<ul>
+    Python
+    HTML
+    CSS
+</ul>
