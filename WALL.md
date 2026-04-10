@@ -12,6 +12,7 @@ Adicione a sua contribuição abaixo seguindo o formato:
 
 > "Wir passen perfekt zusammen, glaub nie etwas anderes" — Jonas Kanhwald
 
+> "Aproveite o Trilha ao máximo que puder! Uma vez Trilhete, sempre Trilhete ⛰" — Sérgio Gabriel
 
 > "Fragmante os problema maiores em pequenos problemas" - Pierre
 
