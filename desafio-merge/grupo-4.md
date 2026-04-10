@@ -5,4 +5,4 @@
 ### Respostas:
 
 <!-- EDITE AQUI: substitua esta linha pela sua resposta -->
-EDITE AQUI - Escreva sua resposta
+Assistente de estudos com IA para universitários
