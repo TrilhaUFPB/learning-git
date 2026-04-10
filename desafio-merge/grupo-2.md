@@ -4,6 +4,5 @@
 
 ### Respostas:
 
-<!-- EDITE AQUI: substitua esta linha pela sua resposta -->
-EDITE AQUI - Escreva sua resposta
+IA vai substituir so alguns, nao todos!
 
