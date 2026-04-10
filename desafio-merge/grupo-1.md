@@ -4,6 +4,8 @@
 
 ### Respostas:
 
-<!-- EDITE AQUI: substitua esta linha pela sua resposta -->
-EDITE AQUI - marco é muito entrosa
-
+Grupo 1 - Resposta final:
+Python é a melhor linguagem para começar porque tem sintaxe simples e é muito utilizada.
+Fácil de aprender
+Comunidade grande
+Muitas bibliotecas disponíveis
