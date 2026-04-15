@@ -4,6 +4,9 @@
 
 ### Respostas:
 
-<!-- EDITE AQUI: substitua esta linha pela sua resposta -->
-EDITE AQUI - Escreva sua resposta
+sofiaaaa:
+IA vai substituir so alguns, nao todos!
+pierreee:
+Sim, a IA vai dominar o mundo tal qual a obra cinematográfica Matrix, vai todo mundo viver numa simulacao.
+
 
