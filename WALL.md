@@ -16,3 +16,7 @@ Adicione a sua contribuição abaixo seguindo o formato:
 
 > "Fragmante os problema maiores em pequenos problemas" - Pierre
 
+> "Primeiro pense no problema. Depois pense na solução, e por último crie a sua ideia. Luciana
+
+> "Só de está aqui vendo essa mensagem já mostra o quão vencendor vc está sendo!" - Luciana
+
