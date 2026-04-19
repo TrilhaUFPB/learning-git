@@ -5,5 +5,5 @@
 ### Respostas:
 
 <!-- EDITE AQUI: substitua esta linha pela sua resposta -->
-EDITE AQUI - Escreva sua resposta
+EDITE AQUI - Java e python
 
